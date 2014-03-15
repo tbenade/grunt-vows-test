@@ -1,0 +1,17 @@
+{
+  "name": "grunt-vows-test",
+  "version": "0.0.0",
+  "description": "Simple sample project to demonstrate failing task",
+  "scripts": {
+    "test": "grunt vows"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "grunt": "^0.4.4"
+  },
+  "devDependencies": {
+    "grunt-vows": "^0.4.0",
+    "vows": "^0.7.0"
+  }
+}
